@@ -1,17 +1,15 @@
 div.a {
+    background-color: #57f5fa;
+}
+
+div.b {
     width: 400px;
     height: 400px;
     display: inline-block;
     border: 1px solid black;
 }
 
-div.amapa {
-    width: 400px;
-    height: 200px;
-    display: inline-block;
-}
-
-div.b {
+div.c {
     width: 400px;
     height: 400px;
     display: inline-block;
